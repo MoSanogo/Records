@@ -1,0 +1,12 @@
+D:\Backends\Records.Data\bin\Debug\net7.0\Records.Data.deps.json
+D:\Backends\Records.Data\bin\Debug\net7.0\Records.Data.dll
+D:\Backends\Records.Data\bin\Debug\net7.0\Records.Data.pdb
+D:\Backends\Records.Data\obj\Debug\net7.0\Records.Data.csproj.AssemblyReference.cache
+D:\Backends\Records.Data\obj\Debug\net7.0\Records.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backends\Records.Data\obj\Debug\net7.0\Records.Data.AssemblyInfoInputs.cache
+D:\Backends\Records.Data\obj\Debug\net7.0\Records.Data.AssemblyInfo.cs
+D:\Backends\Records.Data\obj\Debug\net7.0\Records.Data.csproj.CoreCompileInputs.cache
+D:\Backends\Records.Data\obj\Debug\net7.0\Records.Data.dll
+D:\Backends\Records.Data\obj\Debug\net7.0\refint\Records.Data.dll
+D:\Backends\Records.Data\obj\Debug\net7.0\Records.Data.pdb
+D:\Backends\Records.Data\obj\Debug\net7.0\ref\Records.Data.dll
